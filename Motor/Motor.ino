@@ -62,6 +62,7 @@ void loop() {
         Serial.println("STOP ALL");
         #endif
         speed_i = 0;
+        direction_i = 0;
       }
       // inside the while loop so that updates are near immediate
       go(directions[direction_i],speeds[speed_i]); 
