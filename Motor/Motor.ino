@@ -1,3 +1,9 @@
+/*
+* Created by Hannah Mason
+* on 8/30/2019
+* for EECE 4263 Lab 02
+*/
+
 //#define DEBUG
 
 // Constants for speed, direction, and button pins
